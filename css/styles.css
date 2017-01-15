@@ -1,0 +1,62 @@
+
+body {
+
+    background: url(#) no-repeat center center fixed;
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+
+}
+
+#byiwmemes {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1000;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}
+.kv{
+    background-color: rgba(11, 11, 11, 0.15);
+   
+}
+ul{
+    text-align: left;
+    font-size: 150%;
+}
+li{
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+}
+a {
+color:#fff;
+text-decoration: none;
+}
+a:hover {
+    text-decoration: none; /* Убираем подчеркивание */
+    color:#8BD9F8	; /* Цвет ссылки при наведении на нее курсора мыши */  
+	
+   }
+.center{
+    width: 400px; /* Ширина слоя в пикселах */
+    margin: 0 auto; /* Отступ слева и справа */
+    padding: 10px; /* Поля вокруг текста */
+    text-align: center; /* Выравнивание содержимого слоя по левому краю */
+    margin-top: 25%;
+}
+.nick{
+    font-size:60px;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: -1%;
+}
+.nc{
+    margin-top: -5%;
+}
+.st{
+    font-size: 25px;
+}
+#a1 {
+center
+}
